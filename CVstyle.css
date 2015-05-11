@@ -1,0 +1,110 @@
+html{
+	width: 80%;
+}
+
+body
+{
+	background-color: rgb(245, 241, 242);
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+h1
+{
+	text-align: center;
+	color: red;
+}
+
+img
+{
+	width:125px;
+	border-radius: 10%;
+	margin: 15px;
+	padding: 5%;
+}
+
+
+.img2
+{
+	width:125px;
+	border-radius: 10%;
+	margin: 15px;
+	padding: 5%;
+	margin-top: 45px;
+}
+
+h3
+{
+	margin-top: 5px;
+	color: red;
+	padding: 5px;
+	float:right;
+}
+
+.style1
+{
+	background-color: ghostwhite;
+	border: red;
+	border-radius: 5%;
+	margin: 5%;
+	border:solid 1px red;
+}
+
+.div1
+{
+	float:left;
+	width:25%;
+	height: 200px;
+	padding:5px;
+}
+
+.div2
+{
+	float:inherit;
+	width:500px;
+	margin-left: 20px;
+	padding: 5px;
+}
+
+.div3
+{ 
+	float:right;
+	width:25%;
+	text-align: right;
+}
+.text
+{
+	color: red;
+	margin-left: 5px;
+	font-size: 14px;
+	padding: 5px;
+}
+
+.textlista
+{
+	color: ghostwhite;
+	font-size: 10px;
+}
+
+li{
+	background-color: indianred;
+	margin: 5px;
+	padding: 7px;
+	width: 70px;
+	color: ghostwhite;
+	text-align: center;
+	border-radius: 5px;
+}
+
+li:hover
+{
+	background-color: cornflowerblue;
+}
+
+footer
+{
+	text-align: right;
+	font-size: 12px;
+	margin-right: 50px;
+	float: right;
+	font-family: 'Josefin Sans', sans-serif;
+}
